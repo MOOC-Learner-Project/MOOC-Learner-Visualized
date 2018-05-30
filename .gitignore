@@ -1,0 +1,7 @@
+.coverage
+.coveragerc
+.idea/
+config/config.yml
+rendering/saved_plots/*
+*.pyc
+.DS_STORE
